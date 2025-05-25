@@ -1,2 +1,4 @@
-# bank-app
-Bank application with simple interface written in C language
+# Bank Application
+
+![](https://i.ibb.co/q3MMqg71/bank.jpg)
+
