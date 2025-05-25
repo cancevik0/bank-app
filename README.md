@@ -28,8 +28,8 @@ gcc main.c cJson.c -o bank-app
 
 # Gereksinimler
 
-• GCC (C derleyicisi)
-• cJson
+- GCC (C derleyicisi)  
+- cJson  
 
 # Geliştirici
 
